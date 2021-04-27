@@ -11,11 +11,10 @@
    height="512"
    version="1.1"
    id="svg38"
-   sodipodi:docname="turtle-tophat.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:export-filename="/home/mirror/opt/turtles/sherglock.png">
+>
   <metadata
      id="metadata44">
     <rdf:RDF>
@@ -352,9 +351,8 @@
   <g
      id="g944-5"
      transform="matrix(2.6560048,0,0,2.6560048,855.86407,-454.23095)"
-     inkscape:export-filename="/home/mirror/monocle.png"
-     inkscape:export-xdpi="192"
-     inkscape:export-ydpi="192">
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <path
        id="path918-3"
        overflow="visible"
