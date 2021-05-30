@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <version>190219</version>
+    <url>/home/d/disgkostr12.ove</url>
+    <folders/>
+    <media>
+        <footage id="1" folder="0" name="disgkocrop1.gif" url="disgkocrop1.gif" duration="3000000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="119" height="128" framerate="50.0000000000" infinite="0"/>
+        </footage>
+    </media>
+    <sequences>
+        <sequence id="1" folder="0" name="Sequence 01" width="119" height="128" framerate="50.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="disgkocrop1.gif" clipin="0" in="0" out="150" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="59">
+                            <key value="59" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="81" frame="34" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="56" frame="69" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="36" frame="121" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="72.8603" frame="155" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="59" frame="151" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="64">
+                            <key value="64" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="51" frame="39" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="90" frame="82" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="53.5738" frame="147" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="64" frame="151" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+    </sequences>
+</project>
