@@ -1,15 +1,15 @@
-<div align=center>
- <h2> gk's turtle collegktion </h2>
- <p> ... and more! </p>
-</div>
+<h2 align=center> gk's turtle collegktion </h2>
 
-It's my gimmigk.  `:^)`
+<img src="kingk/kingk.svg" width=180 align=left>
+<br>
 
-Fanart is in `FANART`, files in lowercase top-level directories were (for the most part) by me (with a non-insignificant amount of help from google images)
+[Discord emote server](https://discord.gg/BH3YjBuRtW)  
+<span title="No, it's not carl bot!">The turtle is from google's blob emoji, [praise the blobs!](https://github.com/C1710/blobmoji)</span>
 
-Turtle is from google's old blob-era emoji, a still-updated version of which can be found here: https://github.com/C1710/blobmoji
+Please check the READMEs for Credit & Licensing info, if I made any mistakes and/or you want something you own removed, please let me know by emailing `messagke` (a​t​) googlemail(.com)
 
-Credit / license info is in the README of the relevant directories, if I made any mistakes and/or you want something you own removed, please let me know by emailing `messagke` o​n gmail
+
+<br clear="left"/>
 
 ---
 
