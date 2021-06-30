@@ -13,14 +13,14 @@ Please check the READMEs for Credit & Licensing info, if I made any mistakes and
 
 ---
 
-![](comigk/comigk1.png)
+![](comigk/comigk-1.png)
 
-![](comigk/comigk2.png)
+![](comigk/comigk-2.png)
 
-![](comigk/comigk3.png)
+![](comigk/comigk-3.png)
 
-![](comigk/comigk4.png)
+![](comigk/comigk-4.png)
 
-![](comigk/comigk5.png)
+![](comigk/comigk-5.png)
 
 <sup>^ based on borderlands 2's intro</sup>
