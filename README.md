@@ -25,4 +25,4 @@ Please check the READMEs for Credit & Licensing info, if I made any mistakes and
 
 <sup>^ based on borderlands 2's intro</sup>
 
-epic [Fangame of backstory](https://scratch.mit.edu/projects/623222630) by [Glint](https://github.com/GiantGlint)
+Epigk [fangame of backstory](https://scratch.mit.edu/projects/623222630) by [Gklint](https://github.com/GiantGlint)
