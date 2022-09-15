@@ -24,3 +24,5 @@ Please check the READMEs for Credit & Licensing info, if I made any mistakes and
 ![](comigk/comigk-5.png)
 
 <sup>^ based on borderlands 2's intro</sup>
+
+Epigk [dnl simulator fangame](https://scratch.mit.edu/projects/623222630) by [Gklint](https://github.com/GiantGlint)
