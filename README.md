@@ -1,6 +1,6 @@
 <h2 align=center> gk's turtle collegktion </h2>
 
-<img src="kingk/kingk.svg" width=180 align=left>
+<img src="kingk.svg" width=180 align=left>
 <br>
 
 [Discord emote server](https://discord.gg/BH3YjBuRtW)  
